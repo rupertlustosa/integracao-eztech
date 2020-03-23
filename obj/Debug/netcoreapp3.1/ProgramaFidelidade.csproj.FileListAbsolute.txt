@@ -1,0 +1,13 @@
+C:\Users\ruper\Documents\ProgramaFidelidade\bin\Debug\netcoreapp3.1\ProgramaFidelidade.exe
+C:\Users\ruper\Documents\ProgramaFidelidade\bin\Debug\netcoreapp3.1\ProgramaFidelidade.deps.json
+C:\Users\ruper\Documents\ProgramaFidelidade\bin\Debug\netcoreapp3.1\ProgramaFidelidade.runtimeconfig.json
+C:\Users\ruper\Documents\ProgramaFidelidade\bin\Debug\netcoreapp3.1\ProgramaFidelidade.runtimeconfig.dev.json
+C:\Users\ruper\Documents\ProgramaFidelidade\bin\Debug\netcoreapp3.1\ProgramaFidelidade.dll
+C:\Users\ruper\Documents\ProgramaFidelidade\bin\Debug\netcoreapp3.1\ProgramaFidelidade.pdb
+C:\Users\ruper\Documents\ProgramaFidelidade\obj\Debug\netcoreapp3.1\ProgramaFidelidade.csprojAssemblyReference.cache
+C:\Users\ruper\Documents\ProgramaFidelidade\obj\Debug\netcoreapp3.1\ProgramaFidelidade.csproj.CoreCompileInputs.cache
+C:\Users\ruper\Documents\ProgramaFidelidade\obj\Debug\netcoreapp3.1\ProgramaFidelidade.AssemblyInfoInputs.cache
+C:\Users\ruper\Documents\ProgramaFidelidade\obj\Debug\netcoreapp3.1\ProgramaFidelidade.AssemblyInfo.cs
+C:\Users\ruper\Documents\ProgramaFidelidade\obj\Debug\netcoreapp3.1\ProgramaFidelidade.dll
+C:\Users\ruper\Documents\ProgramaFidelidade\obj\Debug\netcoreapp3.1\ProgramaFidelidade.pdb
+C:\Users\ruper\Documents\ProgramaFidelidade\obj\Debug\netcoreapp3.1\ProgramaFidelidade.genruntimeconfig.cache
